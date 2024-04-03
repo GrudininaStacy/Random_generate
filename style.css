@@ -16,10 +16,10 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url(../random_generate/img/Special.png);
+  background-image: url(https://raw.githubusercontent.com/GrudininaStacy/random_generate/main/img/Special.png);
   background-size: cover; 
-  /* background: #E3DAFB; */
 }
+
 .wrapper{
   position: relative;
   width: 605px;
