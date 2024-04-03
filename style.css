@@ -14,10 +14,10 @@
 body{
   display: flex;
   align-items: center;
+  background-image: url("../random_generate/img/Special.png");
+  background-size: cover; 
   justify-content: center;
   min-height: 100vh;
-  background-image: url(https://raw.githubusercontent.com/GrudininaStacy/random_generate/main/img/Special.png);
-  background-size: cover; 
 }
 
 .wrapper{
